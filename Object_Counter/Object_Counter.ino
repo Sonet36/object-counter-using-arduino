@@ -123,8 +123,6 @@ void choose_digit(char num){
       digitalWrite(pinG, HIGH);
       break;
     }
-  
-  
   }
 
 void setup() {
